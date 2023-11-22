@@ -37,10 +37,10 @@
 
 <h2><strong>Soft Skills</strong></h2>
   <ul>
-    <li>Trabalho em equipe / Team work</li>
+    <li>Trabalho em equipe / Team work;</li>
     <li>Motivação / Motivation;</li>
     <li>Resiliênte / Resilient;</li>
-    <li>Flexibiliade / Flexibility;</li>
+    <li>Flexibilidade / Flexibility;</li>
     <li>Versátil / Versatile;</li>
     <li>Confiável / Reliable;</li>
   </ul>    
